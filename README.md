@@ -89,27 +89,100 @@ Selected engineering work will be added as projects are prepared for public pres
 
 ---
 
-## Activity & Growth
+## 📊 Activity & Growth
 
-### Growth Direction
+This section tracks my engineering activity, consistency, development patterns, and growth over time.
+
+---
+
+### Development Overview
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vuongdam2k01&theme=github_dark"
+    alt="GitHub Profile Overview"
+  />
+</p>
+
+---
+
+### Contribution Consistency
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=vuongdam2k01&theme=dark&starting_year=2026&background=151515&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B8B8B&card_width=740"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+---
+
+### Contribution Trend
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vuongdam2k01&theme=github-compact&days=90&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+### Language Activity
+
+<p align="center">
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vuongdam2k01&theme=github_dark"
+    alt="Languages by Repository"
+  />
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vuongdam2k01&theme=github_dark"
+    alt="Languages by Commit"
+  />
+
+</p>
+
+---
+
+### Productive Time
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vuongdam2k01&theme=github_dark&utcOffset=7"
+    alt="Productive Time"
+  />
+</p>
+
+---
+
+### Development Metrics
 
 <!--
-Example structure:
+WakaTime or another coding activity tracking system can be integrated here.
 
-| Area | Current Direction | Status |
-|---|---|---|
-| Area A | Current focus | Active |
-| Area B | Current focus | Exploring |
+Possible metrics:
+
+- Total coding time
+- Weekly coding time
+- Languages by coding time
+- Projects by coding time
+- Editors
+- Operating systems
+- Daily development activity
 -->
 
-This section tracks my engineering direction and development over time.
+Development-time tracking will be integrated here.
 
-### Recent GitHub Activity
+---
+
+### Recent Engineering Activity
 
 <!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:last_update-->
-
 ---
 
 ## Verified Credentials
