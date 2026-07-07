@@ -120,7 +120,11 @@ Selected engineering work will be added as projects are prepared for public pres
 My professional certifications and verified digital credentials:
 
 <!--START_SECTION:badges-->
-
+[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/80x80/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](https://www.credly.com/badges/965107d5-dcef-4f03-96fc-0ac473619dbd)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/0b0f5e1c-ced7-44af-98b9-fe6b6996a748)
+[![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/99b9cbd0-1461-4172-a99a-ed14ba5503a9)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5778e1a6-698a-4269-a75f-137b1b1d7e36)
+[![Oracle Certified Professional: Java SE 17 Developer](https://images.credly.com/size/80x80/images/0888d950-3b70-4b25-a66b-822a06b74bd8/OCPJSE17_cached_image_20260518-31-olh8st.png)](https://www.credly.com/users/vuongdam2k01/badges)
 <!--END_SECTION:badges-->
 
 <!--
