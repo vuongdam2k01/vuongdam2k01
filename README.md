@@ -107,8 +107,16 @@ This section tracks my engineering direction and development over time.
 ### Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [docsifyjs/docsify](https://github.com/docsifyjs/docsify)<br>
+2. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
+3. ⭐ Starred [flannel-io/flannel](https://github.com/flannel-io/flannel)<br>
+4. ⭐ Starred [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)<br>
+5. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)<br>
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last updated: 2026-07-07 19:16
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
