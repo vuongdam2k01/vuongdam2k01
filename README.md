@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br>
-2. ⭐ Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)<br>
-3. ⭐ Starred [daijro/camoufox](https://github.com/daijro/camoufox)<br>
-4. ⬆️ Pushed undefined commit(s) to [vuongdam2k01/how-to-and-what-is](https://github.com/vuongdam2k01/how-to-and-what-is)<br>
-5. ⭐ Starred [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)<br>
+1. ⭐ Starred [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis)<br>
+2. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)<br>
+3. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
+4. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br>
+5. ⭐ Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-07-18 20:02
+Last updated: 2026-07-19 01:55
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
