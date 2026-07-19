@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis)<br>
-2. ⭐ Starred [storybookjs/storybook](https://github.com/storybookjs/storybook)<br>
-3. ⭐ Starred [zotero/zotero](https://github.com/zotero/zotero)<br>
-4. ⭐ Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)<br>
-5. ⭐ Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)<br>
+1. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br>
+2. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)<br>
+3. ⭐ Starred [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)<br>
+4. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)<br>
+5. ⭐ Starred [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-07-19 09:09
+Last updated: 2026-07-19 15:07
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
