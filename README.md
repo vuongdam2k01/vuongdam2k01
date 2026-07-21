@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
-2. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br>
-3. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)<br>
-4. ⭐ Starred [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)<br>
-5. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)<br>
+1. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
+2. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
+3. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br>
+4. ⭐ Starred [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)<br>
+5. ⭐ Starred [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-07-21 09:08
+Last updated: 2026-07-21 15:16
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
