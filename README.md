@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG)<br>
-2. ⭐ Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)<br>
-3. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
-4. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)<br>
-5. ⭐ Starred [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)<br>
+1. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)<br>
+2. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+3. ⭐ Starred [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG)<br>
+4. ⭐ Starred [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)<br>
+5. ⭐ Starred [every-app/open-seo](https://github.com/every-app/open-seo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-07-27 09:26
+Last updated: 2026-07-27 16:40
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
