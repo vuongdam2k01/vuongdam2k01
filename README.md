@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
-2. ⭐ Starred [renovatebot/renovate](https://github.com/renovatebot/renovate)<br>
-3. ⭐ Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)<br>
-4. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)<br>
-5. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+1. ⭐ Starred [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace)<br>
+2. ⭐ Starred [chenglou/pretext](https://github.com/chenglou/pretext)<br>
+3. ⭐ Starred [renovatebot/renovate](https://github.com/renovatebot/renovate)<br>
+4. ⭐ Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)<br>
+5. ⭐ Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-07-29 09:04
+Last updated: 2026-07-29 15:30
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
