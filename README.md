@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)<br>
-2. ⭐ Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)<br>
-3. ⭐ Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)<br>
-4. ⬆️ Pushed undefined commit(s) to [vuongdam2k01/sag-agents-plugin](https://github.com/vuongdam2k01/sag-agents-plugin)<br>
+1. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)<br>
+2. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)<br>
+3. ⭐ Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)<br>
+4. ⭐ Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)<br>
 5. ⬆️ Pushed undefined commit(s) to [vuongdam2k01/sag-agents-plugin](https://github.com/vuongdam2k01/sag-agents-plugin)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-08-20 19:36
+Last updated: 2026-08-21 01:30
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
