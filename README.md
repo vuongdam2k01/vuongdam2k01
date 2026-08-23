@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)<br>
-2. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)<br>
-3. ⭐ Starred [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)<br>
-4. ⭐ Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)<br>
-5. ⭐ Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)<br>
+1. ⭐ Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)<br>
+2. ⭐ Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)<br>
+3. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
+4. ⭐ Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)<br>
+5. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-08-23 19:28
+Last updated: 2026-08-24 01:20
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
