@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)<br>
-2. ⭐ Starred [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla)<br>
-3. ⭐ Starred [memodb-io/Acontext](https://github.com/memodb-io/Acontext)<br>
-4. ⬆️ Pushed undefined commit(s) to [vuongdam2k01/desktop-assistant](https://github.com/vuongdam2k01/desktop-assistant)<br>
-5. ⭐ Starred [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)<br>
+1. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
+2. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+3. ⭐ Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)<br>
+4. ⭐ Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)<br>
+5. ⭐ Starred [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-09-20 09:57
+Last updated: 2026-09-20 17:27
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
