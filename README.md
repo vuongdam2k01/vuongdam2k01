@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
-2. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-3. ⭐ Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)<br>
-4. ⭐ Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)<br>
-5. ⭐ Starred [TokenRhythm/opensquilla](https://github.com/TokenRhythm/opensquilla)<br>
+1. ⭐ Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)<br>
+2. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)<br>
+3. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+4. ⭐ Starred [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)<br>
+5. ⭐ Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-09-24 09:45
+Last updated: 2026-09-24 17:57
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
