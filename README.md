@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-2. ⭐ Starred [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)<br>
-3. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)<br>
-4. ⭐ Starred [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)<br>
-5. ⭐ Starred [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)<br>
+1. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br>
+2. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+3. ⭐ Starred [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)<br>
+4. ⭐ Starred [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI)<br>
+5. ⭐ Starred [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-01 04:46
+Last updated: 2026-10-01 10:41
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
