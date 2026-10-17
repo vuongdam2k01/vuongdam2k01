@@ -113,13 +113,13 @@ Selected engineering work will be added as projects are prepared for public pres
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
-2. 🔀 Opened PR [#12](undefined) in [vuongdam2k01/ClawTrace](https://github.com/vuongdam2k01/ClawTrace)<br>
-3. 🔀 Opened PR [#11](undefined) in [vuongdam2k01/ClawTrace](https://github.com/vuongdam2k01/ClawTrace)<br>
-4. 🔀 Opened PR [#10](undefined) in [vuongdam2k01/ClawTrace](https://github.com/vuongdam2k01/ClawTrace)<br>
-5. 🔀 Opened PR [#9](undefined) in [vuongdam2k01/ClawTrace](https://github.com/vuongdam2k01/ClawTrace)<br>
+2. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
+3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+4. ⭐ Starred [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)<br>
+5. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-17 09:38
+Last updated: 2026-10-17 17:01
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
