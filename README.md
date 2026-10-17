@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
-2. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
-3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
-4. ⭐ Starred [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)<br>
-5. ⭐ Starred [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)<br>
+1. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
+2. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
+3. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
+4. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+5. ⭐ Starred [lucasmarkes/hairline](https://github.com/lucasmarkes/hairline)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-17 21:49
+Last updated: 2026-10-18 02:58
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
