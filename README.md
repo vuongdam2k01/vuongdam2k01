@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
-2. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
-3. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
-4. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
-5. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
+1. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
+2. ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
+3. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
+4. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
+5. ⭐ Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-24 09:56
+Last updated: 2026-10-24 17:07
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
