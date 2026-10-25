@@ -119,7 +119,7 @@ Selected engineering work will be added as projects are prepared for public pres
 5. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-25 17:33
+Last updated: 2026-10-25 22:25
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
