@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA)<br>
-2. ⭐ Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)<br>
-3. ⭐ Starred [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code)<br>
-4. ⭐ Starred [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)<br>
-5. ⭐ Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)<br>
+1. ⭐ Starred [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)<br>
+2. ⭐ Starred [cashapp/hermit](https://github.com/cashapp/hermit)<br>
+3. ⭐ Starred [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA)<br>
+4. ⭐ Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)<br>
+5. ⭐ Starred [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-27 10:21
+Last updated: 2026-10-27 18:26
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
