@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)<br>
-2. ⭐ Starred [cashapp/hermit](https://github.com/cashapp/hermit)<br>
-3. ⭐ Starred [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA)<br>
-4. ⭐ Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)<br>
-5. ⭐ Starred [trailhq/Trail-Code](https://github.com/trailhq/Trail-Code)<br>
+1. ⭐ Starred [glanceapp/glance](https://github.com/glanceapp/glance)<br>
+2. ⭐ Starred [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)<br>
+3. ⭐ Starred [cashapp/hermit](https://github.com/cashapp/hermit)<br>
+4. ⭐ Starred [Tongyi-MAI/OpenGCUA](https://github.com/Tongyi-MAI/OpenGCUA)<br>
+5. ⭐ Starred [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-28 10:37
+Last updated: 2026-10-28 18:58
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
