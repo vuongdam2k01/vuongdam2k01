@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [vuongdam2k01/hermit](https://github.com/vuongdam2k01/hermit) from [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)<br>
-2. ⭐ Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)<br>
-3. ⭐ Starred [glanceapp/glance](https://github.com/glanceapp/glance)<br>
-4. ⭐ Starred [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)<br>
-5. ⭐ Starred [cashapp/hermit](https://github.com/cashapp/hermit)<br>
+1. ⭐ Starred [viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max)<br>
+2. ⭐ Starred [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)<br>
+3. ⭐ Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)<br>
+4. 🔱 Forked [vuongdam2k01/hermit](https://github.com/vuongdam2k01/hermit) from [Infini-AI-Lab/hermit](https://github.com/Infini-AI-Lab/hermit)<br>
+5. ⭐ Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-10-31 10:44
+Last updated: 2026-10-31 18:34
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
