@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)<br>
-2. ⭐ Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>
-3. ⭐ Starred [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)<br>
-4. ⭐ Starred [viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max)<br>
-5. ⭐ Starred [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai)<br>
+1. ⭐ Starred [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop)<br>
+2. ⭐ Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)<br>
+3. ⭐ Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)<br>
+4. ⭐ Starred [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch)<br>
+5. ⭐ Starred [viettranx/3dviz-pro-max](https://github.com/viettranx/3dviz-pro-max)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-11-01 19:31
+Last updated: 2026-11-02 04:35
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
