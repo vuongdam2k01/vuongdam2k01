@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)<br>
-2. ⭐ Starred [scenario-labs/skills](https://github.com/scenario-labs/skills)<br>
-3. ⬆️ Pushed undefined commit(s) to [vuongdam2k01/hermit](https://github.com/vuongdam2k01/hermit)<br>
-4. ⬆️ Pushed undefined commit(s) to [vuongdam2k01/hermit](https://github.com/vuongdam2k01/hermit)<br>
-5. ⬆️ Pushed undefined commit(s) to [vuongdam2k01/hermit](https://github.com/vuongdam2k01/hermit)<br>
+1. ⭐ Starred [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper)<br>
+2. ⭐ Starred [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)<br>
+3. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
+4. ⭐ Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
+5. ⭐ Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-11-07 11:13
+Last updated: 2026-11-07 19:17
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
