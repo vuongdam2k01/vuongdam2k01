@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper)<br>
-2. ⭐ Starred [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)<br>
-3. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
-4. ⭐ Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
-5. ⭐ Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)<br>
+1. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)<br>
+2. ⭐ Starred [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper)<br>
+3. ⭐ Starred [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)<br>
+4. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
+5. ⭐ Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-11-08 10:56
+Last updated: 2026-11-08 19:37
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
