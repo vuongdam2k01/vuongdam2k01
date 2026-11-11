@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)<br>
-2. ⭐ Starred [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api)<br>
-3. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)<br>
-4. ⭐ Starred [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper)<br>
-5. ⭐ Starred [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper)<br>
+1. ⭐ Starred [trailofbits/skills](https://github.com/trailofbits/skills)<br>
+2. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
+3. ⭐ Starred [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)<br>
+4. ⭐ Starred [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api)<br>
+5. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-11-11 11:15
+Last updated: 2026-11-11 20:25
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
