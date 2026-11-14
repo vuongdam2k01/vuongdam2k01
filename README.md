@@ -112,14 +112,14 @@ Selected engineering work will be added as projects are prepared for public pres
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DhvanilPatel/swarm-cursors](https://github.com/DhvanilPatel/swarm-cursors)<br>
-2. ⭐ Starred [trailofbits/skills](https://github.com/trailofbits/skills)<br>
-3. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
-4. ⭐ Starred [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader)<br>
-5. ⭐ Starred [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api)<br>
+1. ⭐ Starred [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director)<br>
+2. ⭐ Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)<br>
+3. ⭐ Starred [DhvanilPatel/swarm-cursors](https://github.com/DhvanilPatel/swarm-cursors)<br>
+4. ⭐ Starred [trailofbits/skills](https://github.com/trailofbits/skills)<br>
+5. ⭐ Starred [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: 2026-11-14 11:36
+Last updated: 2026-11-14 19:51
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 
